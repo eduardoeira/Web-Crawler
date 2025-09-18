@@ -2,9 +2,9 @@
 
 Este projeto implementa um mini-motor de busca que:
 
-Rastreia (crawl) uma página inicial, encontra todos os links da página e, de forma recursiva, segue os links descobertos.
+1. Rastreia (crawl) uma página inicial, encontra todos os links da página e, de forma recursiva, segue os links descobertos.
 
-Indexa o conteúdo de cada página em um banco de dados MySQL, armazenando cada palavra e sua localização no texto.
+2. Indexa o conteúdo de cada página em um banco de dados MySQL, armazenando cada palavra e sua localização no texto.
 
 Pesquisa links mais relevantes com base em duas (ou mais) palavras de busca, aplicando uma fórmula de rank que considera:
 
