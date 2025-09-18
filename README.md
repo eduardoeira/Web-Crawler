@@ -135,4 +135,4 @@ Este projeto é distribuído sob a licença MIT – veja o arquivo [LICENSE](LIC
 ---
 
 ### Autor
-**Eduardo Eira** – [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/SEU_USUARIO)
+**Eduardo Eira** – [LinkedIn](https://www.linkedin.com/in/eduardo-eira-8b15bb5b/) | [GitHub](https://github.com/eduardoeira)
